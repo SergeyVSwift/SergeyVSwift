@@ -11,4 +11,4 @@ iOS Developer
 
 ## Languages and Tools:
 
-![image](https://developer.apple.com/swift/)
+[![image](https://developer.apple.com/swift/)](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg)
