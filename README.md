@@ -11,4 +11,4 @@ iOS Developer
 
 ## Languages and Tools:
 
-![image](https://user-images.githubusercontent.com/125308982/230730552-8a14f4d4-386d-4388-8e44-92e1d4e1f9f6.png)
+![image](https://developer.apple.com/swift/)
