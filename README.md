@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is Sergey
 
-_______________________________________________________________
+
 
 iOS Developer
 
@@ -11,4 +11,4 @@ iOS Developer
 
 ## Languages and Tools:
 
-[![image](https://developer.apple.com/swift/)](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg)
+![image](https://user-images.githubusercontent.com/125308982/230730688-0424f990-5cdf-4b0c-b561-a15741e6a70b.png)
