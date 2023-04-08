@@ -5,7 +5,6 @@
 iOS Developer
 
 - 🌱 I’m currently learning Swift
-- 📫 You can reach me by mail: anjacodes@gmail.com
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can reach me an email at vashhenkobs@gmail.com
 
