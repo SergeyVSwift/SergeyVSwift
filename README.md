@@ -2,7 +2,7 @@
 
 
 
-iOS Developer
+# iOS Developer
 
 - 🌱 I’m currently learning Swift
 - 🚀 I love pet-projects. They help me grow professionally all my life.
