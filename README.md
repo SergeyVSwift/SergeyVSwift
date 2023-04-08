@@ -11,6 +11,6 @@ iOS Developer
 
 ## Languages and Tools:
 
-<a href="https://user-images.githubusercontent.com/125308982/230730688-0424f990-5cdf-4b0c-b561-a15741e6a70b.png">
+<a href="https://developer.apple.com/swift/">
 <img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
 </a>
