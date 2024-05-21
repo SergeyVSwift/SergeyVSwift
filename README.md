@@ -7,7 +7,6 @@ width="32%" >
 width="32%" > 
   <h3 style = { position } align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Human!+👋;I'm+Sergey.;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h3>
 </h2>
