@@ -27,7 +27,7 @@ class Me: Skills {
     let data = [UserDefaults, Keychain, CoreData]
     let dependency managers = [CocoaPods]
     let arthitectures = [MVC, MVP, MVVM]
-    let designPatterns = [Delegate, CallBack, Observer, Singleton]
+    let designPatterns = [Delegate, Observer, Singleton]
     let designPrinciples = [OOP, DRY, SOLID]
     let english = [B1]
 }
