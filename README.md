@@ -30,6 +30,7 @@ class Me: Skills {
     let designPatterns = [Delegate, Observer, Singleton]
     let designPrinciples = [OOP, DRY, SOLID]
     let english = [B1]
+    let germans = [B1]
 }
 ```
 
