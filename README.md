@@ -11,8 +11,8 @@ width="32%" >
 </h3>
 </h2>
 
-- 🌱 I’m currently learning Swift
-- 🚀 I love pet-projects. They help me grow professionally all my life.
+- 🌱 Swift
+- 🚀 I love pet-projects. They help me grow professionally all my life
 - ✉️ You can reach me an email at vashhenkobs@gmail.com
 
 
